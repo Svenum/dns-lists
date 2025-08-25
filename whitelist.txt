@@ -1,0 +1,209 @@
+# Ecowitt
+@@||ecowitt.net^$important
+
+# Samsung 
+@@||gpm.samsungqbe.com^$important
+@@||us-api.mcsvc.samsung.com^$important
+@@||cdn.samsungcloudsolution.com^$important
+@@||time.samsungcloudsolution.com^$important
+
+# ING
+@@||ing.de^$important
+
+# Sony
+@@||www.sony.de^$important
+
+# Streaming
+@@||filmpalast.to^$important
+@@||bs.to^$important
+@@||cine.to^$important
+@@||vivo.sx^$important
+@@||streamtape.com^$important
+
+# Netflix
+@@||android-appboot.netflix.com^$important
+
+# Crunchyroll
+@@||evidon.com^$important
+@@||eec.crunchyroll.com^$important
+
+# Shazam
+@@||www.shazam.com^$important
+
+# Google Services
+@@||storage.googleapis.com^$important
+@@||fonts.googleapis.com^$important
+
+# Zoho
+@@||zoho.com^$important
+@@||mailws.zoho.eu^$important
+
+# Paypal
+@@||paypal.com^$important
+@@||paypalobjects.com^
+
+# Edeka
+@@||login.edeka^$important
+
+# Unifi
+@@||cdn.jsdelivr.net^$important
+@@||ingest.sentry.io^$important
+@@||ubiquiti.ada.support^$important
+
+# Blockaing
+||rr4---sn-h0jelne7.googlevideo.com^$important
+
+# Strato
+||shop.strato.de^$important
+
+# Hayday
+@@||gamea.haydaygame.com^$important
+@@||game.haydaygame.com^$important
+
+# League of Legends
+@@||leagueoflegends.com^$important
+@@||lolesports.com^$important
+
+# Minecraft
+@@||vortex.data.microsoft.com^$important
+
+# Spotify
+@@||dealer.spotify.com^$important
+
+# Protonmail
+@@||proton.me^$important
+
+# Protonvpn
+@@||protonvpn.com^$important
+
+# Amazon
+@@||trans-rmabarcode-images-eu.s3.eu-west-1.amazonaws.com^$important
+@@||aax-eu.amazon.de^$important
+@@||fls-eu.amazon.de^$important
+@@||amazon.de^$important
+@@||amzn.to^$important
+@@||unagi-eu.amazon.com^$important
+@@||unagi-na.amazon.com^$important
+@@||a2z.com^$important
+@@||xp-assets.aiv-cdn.net^$important
+
+# Angry birds
+@@||cloud.rovio.com^$important
+
+# Framework
+@@||vimeo.com^$important
+@@||sentry.io^$important
+@@||vimeocdn.com^$important
+@@||akamaized.net^$important
+
+# GitHub
+@@||gist.githubusercontent.com^$important
+
+# Spotify
+@@||open.spotify.com^$important
+
+# Steam
+@@||crash.steampowered.com^$important
+
+# Discord
+@@||click.discord.com^$important
+
+# Pinterrest
+@@||www.pinterest.com^$important
+@@||assets.pinterest.com^$important
+
+# RedHat
+@@||app.engage.redhat.com^$important
+
+# Opeara
+@@||net.geo.opera.com^$important
+
+# Samsung TV
+@@||lcprd1.samsungcloudsolution.net^$important
+@@||oempprd.samsungcloudsolution.com^$important
+@@||osb-apps-v2.samsungqbe.com^$important
+@@||gdlp01.c-wss.com^$important
+@@||dev.visualwebsiteoptimizer.com^$important
+
+# Ebay
+@@||svcs.ebay.com^$important
+@@||apisd.ebay.com^$important
+@@||dlupload.com^$important
+
+# Ebook.de
+@@||widgets.trustedshops.com^$important
+@@||app.usercentrics.eu^$important
+@@||privacy-proxy.usercentrics.eu^$important
+
+# CraftNotes
+@@||www.craft.do^$important
+
+# K2
+@@||k2skates.com^$important
+
+# Apple
+@@||apple.com^
+@@||icloud.com^
+@@||apple-cloudkit.com^
+@@||apple-livephotoskit.com^
+@@||app-site-association.cdn-apple.com^
+@@||app-site-association.networking.apple^
+
+# More
+@@||ctrk.klclick.com^$important
+
+# HUK
+@@||dahag-apps.de^$important
+
+# LinkedIn
+@@||lan.sdk.linkedin.com^$important
+
+# Usenet
+@@||aktion.usenext.com^$important
+@@||www.usenext.com^$important
+
+# Tailscale
+||log.tailscale.com^$important
+@@||tailscale.com^$important
+
+# Immonet
+@@||mms.immonet.de^$important
+
+# Immowelt
+@@||mms.immowelt.de^$important
+@@||objectstorage.eu-frankfurt-1.oraclecloud.com^$important
+
+# Adafruit
+@@||learn.adafruit.com^$important
+
+# Logseq
+@@||logseq.com^$important
+
+# Xletix
+@@||xletix.com^$important
+@@||financing.peugeot.store^$important
+
+# LinkedIn
+@@||static.licdn.com^$important
+@@||media.licdn.com^$important
+
+# flexispot
+@@||www.flexispot.de^
+
+# Mobil Krankenkasse
+@@||api.mobil-krankenkasse.de^
+@@||eu-mobile.events.data.microsoft.com^
+@@||accounts.eu1.gigya.com^
+@@||fidm.eu1.gigya.com^
+
+# LG
+@@||de.lgrecommends.lgappstv.com^
+@@||de.info.lgsmartad.com^
+@@||de.lgtvsdp.com^
+
+# Other
+@@||icanhazip.com^$important
+@@||opentelemetry.io^$important
+@@||www.loopearplugs.com^$important
+@@||acme.zerossl.com^$important
+
