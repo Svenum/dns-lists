@@ -75,6 +75,7 @@
 
 # Protonvpn
 @@||protonvpn.com^$important
+@@||protonvpn.net^$important
 
 # Amazon
 @@||trans-rmabarcode-images-eu.s3.eu-west-1.amazonaws.com^$important
